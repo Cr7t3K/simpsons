@@ -1,5 +1,5 @@
 import React from "react";
-import 'QuoteCard.css'
+import './QuoteCard.css'
 
 function sampleQuote({props}) {
     return (
